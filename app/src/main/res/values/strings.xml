@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">ButtonNavApp</string>
+    <string name="title_cinema">Movie</string>
+    <string name="title_tvseries">TV Series</string>
+    <string name="change_language_settings">Change Language Settings</string>
+
+
+    <string-array name="title_cinema">
+        <item>Poster A Star</item>
+        <item>Aquaman</item>
+
+        <item>Avengers: Infinity War</item>
+        <item>Bohemian Rhapsody</item>
+
+        <item>Bumblebee</item>
+        <item>Once Upon a Deadpool</item>
+
+        <item>Bird Box</item>
+        <item>Venom</item>
+
+        <item>Robin Hood</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+
+    </string-array>
+
+    <string-array name="desc_cinema">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder and zero F\'s.</item>
+
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+
+    </string-array>
+
+    <array name="photo_cinema">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bohemian</item>
+
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_deadpool</item>
+
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_venom</item>
+
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+    </array>
+
+    <string-array name="title_tvseries">
+        <item>Dark</item>
+        <item>The Punisher</item>
+
+        <item>Godless</item>
+        <item>The Orville</item>
+
+        <item>The Good Doctor</item>
+        <item>Riverdale</item>
+
+        <item>Runaways</item>
+        <item>Knightfall</item>
+
+        <item>Gifted</item>
+        <item>Star Trek: Discovery</item>
+
+    </string-array>
+
+    <string-array name="desc_tvseries">
+        <item> Longtime musician Jackson Maine discovered - and fell in love with - the struggling artist Ally. He had just given up on his dream of becoming a big singer - until Jack talked him into the spotlight. But even when Ally\'s career took off, the personal side of their relationship was destroyed, because Jack struggled constantly with his own internal demons. </item>
+
+        <item> After being home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a very large army, Orm plans to conquer the remaining ocean people and then to the surface. What prevented him was Arthur Curry, half-human brother, half brother of Atlantis and true heir to the throne. </item>
+
+
+        <item> As the Avengers and their allies continue to protect the world from threats that are too large to be handled by one hero, a new danger has arisen from the cosmic shadow: Thanos. An intergalactic despic despot, his aim is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to arouse his desires which are twisted in all reality. Everything that the Avengers have fought for has led to the present - the fate of the Earth and its existence has never been more uncertain. </item>
+
+        <item> Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor, and guitarist John Deacon took the music world by storm when they formed the rock band, Queen Rock, in 1970. Hit songs became an instant classic. When Mercury\'s increasingly wild lifestyle began to spiral out of control, Queen soon faced her biggest challenge - finding ways to keep the band together amidst success and strength. </item>
+
+
+        <item> During an escape in 1987, Bumblebee found shelter in a junkyard in the small coastal town of California. Charlie, at the age of 18 and trying to find his place in the world, found Bumblebee, a battle scar and broken. When Charlie resurrected him, he quickly learned that this was no ordinary yellow VW bug. </item>
+
+        <item> The kidnapped Fred Savage is forced to bear the rendition of PG-13 Deadpool 2 from Deadpool 2 as the story of the Bride Daughter filled with miracles, miracles, and zero F. </item>
+
+
+        <item> Five years after an unpleasant, invisible presence prompted most people to commit suicide, a survivor and his two children made a desperate attempt to achieve safety. </item>
+
+        <item> Investigative reporter Eddie Brock tried to come back after the scandal, but accidentally hosted Venom, a powerful and powerful alien symbiote. Immediately, he must rely on his new powers to protect the world from shadow organizations that seek their own symbiosis. </item>
+
+
+        <item> A Crusader who hardened the war and his Moorish commander waged a brave uprising against the corrupt British crown. </item>
+
+        <item> Miles Morales juggled his life between being a middle school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, the rest of the Spider-Verse are transported to this dimension. </item>
+
+    </string-array>
+
+    <array name="photo_tvseries">
+        <item>@drawable/dark1</item>
+        <item>@drawable/thepunisher2</item>
+
+        <item>@drawable/godless3</item>
+        <item>@drawable/theorville4</item>
+
+        <item>@drawable/thegooddoctor5</item>
+        <item>@drawable/riverdale6</item>
+
+        <item>@drawable/runaways7</item>
+        <item>@drawable/knightfall8</item>
+
+        <item>@drawable/gifted9</item>
+        <item>@drawable/startrek10</item>
+    </array>
+
+</resources>
